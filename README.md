@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="ctms logo" width="180" />
+</p>
+
 # County Tax Management System
 
 This repository contains a packaged project archive: `CTMS_County_Tax_Management_System.zip`.
